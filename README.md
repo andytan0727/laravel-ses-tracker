@@ -1,4 +1,8 @@
 # laravel-ses-tracker
+
+> This repo is deprecated and archived in favor of more popular email tracking solution in Laravel. Check out [jdavidbakr/mail-tracker](https://github.com/jdavidbakr/mail-tracker).
+
+---------------
 A Laravel 6.0+ Package that allows you to get simple sending statistics for emails you send through SES, including deliveries, opens, bounces, complaints and link tracking.
 
 > This is a revamped version of [oliveready7/laravel-ses](https://github.com/oliveready7/laravel-ses) package, updated to support Laravel v6.0+ and some bug fixes.
